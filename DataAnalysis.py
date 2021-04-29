@@ -16,4 +16,4 @@ print(data)
 #print(data['Date'])#colume
 
 for item in data['Date']:
-    print(item)
+    print(item);
